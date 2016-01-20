@@ -5,3 +5,5 @@ List of Dead Characters in Game of Thrones
 4 Robert Baratheon
 5 Joffery Baratheon
 6 Obryen Martell 
+7 Elia Martell
+8 Ser Barristan Selmy
